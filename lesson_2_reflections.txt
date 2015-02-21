@@ -1,0 +1,12 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+git creates a .git folder that it uses to track changes to files
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area are the files that will be committed in the next commit
+Working directory is all the files in the directory, whether they are being tracked or not
+Non-tracked files could be useful for files that will never change, or related notes
+I don't really see that point for not tracking everything in the directory, at least at this point.
+
