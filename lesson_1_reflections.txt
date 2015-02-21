@@ -47,7 +47,7 @@ using commit IDs for file names, use 'git diff new_file.txt old_file.txt
 How might using version control make you more confident to make changes that could break something?
 
 If something goes wrong, I can go back to an earlier point where things were working
-I can also try going in a new direction if inspired to do that, and still have my other point available for further dev
+I can also try going in a new direction if inspired to do that, and still have my other point available for further dev 
 
 
 
