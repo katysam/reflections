@@ -10,3 +10,9 @@ Working directory is all the files in the directory, whether they are being trac
 Non-tracked files could be useful for files that will never change, or related notes
 I don't really see that point for not tracking everything in the directory, at least at this point.
 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can select just the files connected to the change you are targeting
+Other files that have changed can be committed at a different time, or not committed, as needed
+
