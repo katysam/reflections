@@ -16,3 +16,11 @@ Forks are GitHub-enhanced clones. They reside on the GitHub server for the purpo
 Clones are local copies of shared repositories. Use a clone when you want to edit locally without necessarily sharing with anyone.
 
 Branches are new directions for a local repository. Use a branch when you want to explore a new feature or a new idea.
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Having the last known state stored locally lets you include the entire group's work into what you are testing or developing.
+Also, it lets you compare your ideas with other collaborators', and you can decide whether to proceed in your own direction, or carry on from theirs.
+
+
