@@ -30,3 +30,7 @@ Diagrams of git structure help show which commits are associated with which bran
 They also help see all of the branches at once and make clear where specific changes are located
 
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches interleaves all the changes made to both branches into one branch
+We show them on the diagram, even after the merge, as being separate paths because there could be a lot of changes on each branch we might want to review separately.
