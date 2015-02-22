@@ -1,6 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 git creates a .git folder that it uses to track changes to files
+without the .git folder, git cannot store the necessary info about verions
 
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
@@ -34,3 +35,15 @@ What is the result of merging two branches together? Why do we represent it in t
 
 Merging two branches interleaves all the changes made to both branches into one branch
 We show them on the diagram, even after the merge, as being separate paths because there could be a lot of changes on each branch we might want to review separately.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros
+There should be fewer human error mistakes
+multiple changes on the same file will be included in the merge
+
+Cons
+Some kinds of edits could be seen as different but are actually redundant or overlapping
+Some files or lines could be overlooked or forgotten when it comes time to manually merge
+
