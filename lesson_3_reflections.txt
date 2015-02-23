@@ -1,15 +1,15 @@
-When would you want to use a remote repository rather than keeping all your work local?
+	When would you want to use a remote repository rather than keeping all your work local?
 
 Remote repositories seem ideal for collaborative work, or for times when you want to share your project for others to view.
 It would also be useful to have a remote repository when working from many different devices.
 
 
-Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+	Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 We don't need to share work in progress, we just need to share important working versions
 
 
-Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forks are GitHub-enhanced clones. They reside on the GitHub server for the purpose of making a copy without changing the original. Use a fork to make a copy that you will want to share with others.
 
@@ -18,9 +18,15 @@ Clones are local copies of shared repositories. Use a clone when you want to edi
 Branches are new directions for a local repository. Use a branch when you want to explore a new feature or a new idea.
 
 
-What is the benefit of having a copy of the last known state of the remote stored locally?
+	What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Having the last known state stored locally lets you include the entire group's work into what you are testing or developing.
 Also, it lets you compare your ideas with other collaborators', and you can decide whether to proceed in your own direction, or carry on from theirs.
 
+
+	How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	
+I've collaborated for years without GitHub. Usually I just make my changes on a server and then ask my friend to look at it.
+On the one hand, it's easier to work that way because the changes are in place and we can see how they function.
+On the other hand, it's harder to revert to an earlier point and sometimes something would get overlooked or forgotten.
 
